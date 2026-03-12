@@ -16,6 +16,7 @@ Continuous constraints
 and Single start constraints
 
 Repository Structure
+```text
 DSM-SRH
 │
 │
@@ -62,7 +63,7 @@ DSM-SRH
 │   └── TotalLoadProfile2.png
 │
 └── README.md
-
+```
 
 %% Requirements
 to run scripts MATLAB R2023b or later is required
